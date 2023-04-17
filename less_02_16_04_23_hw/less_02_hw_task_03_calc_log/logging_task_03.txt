@@ -1,0 +1,18 @@
+апр. 17, 2023 12:58:14 PM less_02_16_04_23_hw.less_02_hw_task_03_calc_log.task_02_main main
+INFO: 1,00 + 9,00 = 10,00
+
+апр. 17, 2023 12:58:29 PM less_02_16_04_23_hw.less_02_hw_task_03_calc_log.task_02_main main
+INFO: 21,00 - 11,00 = 10,00
+
+апр. 17, 2023 12:58:39 PM less_02_16_04_23_hw.less_02_hw_task_03_calc_log.task_02_main main
+WARNING: Введены не корректные данные: 5,00 # 2,00
+
+апр. 17, 2023 12:58:57 PM less_02_16_04_23_hw.less_02_hw_task_03_calc_log.task_02_main main
+INFO: 2,00 * 10,00 = 20,00
+
+апр. 17, 2023 12:59:12 PM less_02_16_04_23_hw.less_02_hw_task_03_calc_log.task_02_main main
+WARNING: Введены не корректные данные: 34,00 / 0,00
+
+апр. 17, 2023 12:59:24 PM less_02_16_04_23_hw.less_02_hw_task_03_calc_log.task_02_main main
+INFO: 22,00 / 11,00 = 2,00
+

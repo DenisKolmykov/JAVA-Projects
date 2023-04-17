@@ -1,0 +1,66 @@
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+INFO: Сформирован массив [размер = 10]:
+36 89 90 33 14 61 2 39 29 32 
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 1: [36, 89, 33, 90, 14, 61, 2, 39, 29, 32]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 2: [36, 89, 33, 14, 90, 61, 2, 39, 29, 32]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 3: [36, 89, 33, 14, 61, 90, 2, 39, 29, 32]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 4: [36, 89, 33, 14, 61, 2, 90, 39, 29, 32]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 5: [36, 89, 33, 14, 61, 2, 39, 90, 29, 32]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 6: [36, 89, 33, 14, 61, 2, 39, 29, 90, 32]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 7: [36, 89, 33, 14, 61, 2, 39, 29, 32, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 8: [36, 33, 89, 14, 61, 2, 39, 29, 32, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 9: [36, 33, 14, 89, 61, 2, 39, 29, 32, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 10: [36, 33, 14, 61, 89, 2, 39, 29, 32, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 11: [36, 33, 14, 61, 2, 89, 39, 29, 32, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 12: [36, 33, 14, 61, 2, 39, 89, 29, 32, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 13: [36, 33, 14, 61, 2, 39, 29, 89, 32, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 14: [36, 33, 14, 61, 2, 39, 29, 32, 89, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 15: [33, 36, 14, 61, 2, 39, 29, 32, 89, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 16: [33, 14, 36, 61, 2, 39, 29, 32, 89, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 17: [33, 14, 36, 2, 61, 39, 29, 32, 89, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 18: [33, 14, 36, 2, 39, 61, 29, 32, 89, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 19: [33, 14, 36, 2, 39, 29, 61, 32, 89, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 20: [33, 14, 36, 2, 39, 29, 32, 61, 89, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 21: [14, 33, 36, 2, 39, 29, 32, 61, 89, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 22: [14, 33, 2, 36, 39, 29, 32, 61, 89, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 23: [14, 33, 2, 36, 29, 39, 32, 61, 89, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 24: [14, 33, 2, 36, 29, 32, 39, 61, 89, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 25: [14, 2, 33, 36, 29, 32, 39, 61, 89, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 26: [14, 2, 33, 29, 36, 32, 39, 61, 89, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 27: [14, 2, 33, 29, 32, 36, 39, 61, 89, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 28: [2, 14, 33, 29, 32, 36, 39, 61, 89, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 29: [2, 14, 29, 33, 32, 36, 39, 61, 89, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+WARNING: шаг 30: [2, 14, 29, 32, 33, 36, 39, 61, 89, 90]
+апр. 17, 2023 2:33:03 PM less_02_16_04_23_hw.less_02_hw_task_01_bubble_sort.task_01_main main
+INFO: Отсортированный массив:
+2 14 29 32 33 36 39 61 89 90 
