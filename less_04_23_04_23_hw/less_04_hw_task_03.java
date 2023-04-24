@@ -126,7 +126,7 @@ public class less_04_hw_task_03 {
     }
 
 
-    public static boolean isNumeric(String str) { // проверка на корректность ввода - числа
+    private static boolean isNumeric(String str) { // проверка на корректность ввода - числа
         try {
           Double.parseDouble(str);
           return true;
