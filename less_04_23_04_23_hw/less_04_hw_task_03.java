@@ -69,7 +69,7 @@ public class less_04_hw_task_03 {
                 }
                 else {
                     System.out.print("предыдущий результат: ");
-                    System.out.println(twoNums[0]);
+                    System.out.printf("%.2f\n",twoNums[0]);
                 }
 
             }
